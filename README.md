@@ -1615,3 +1615,4 @@ controller   8       22    1         1       Provisioned   All requested Virtual
 ## OSP minor version updates
 
 See the [OSP update process](docs/README-osp-update.md) document
+.
